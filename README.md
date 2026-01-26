@@ -1,2 +1,2 @@
 # Masonry-parameters-FEM-DEM
-Code from the paper R. Bravo and J.L. Pérez–Aparicio (2023) "Combined Finite–Discrete element method for parameter identification of masonry structures" https://doi.org/10.1016/j.conbuildmat.2 023.132297 
+Code from the paper R. Bravo and J.L. Pérez–Aparicio (2023) "Combined Finite–Discrete element method for parameter identification of masonry structures" https://doi.org/10.1016/j.conbuildmat.2 023.132297 The code must be run with the FEM-DEM code from Munjiza's book (Combined Finite-Discrete Element Method) https://onlinelibrary.wiley.com/doi/book/10.1002/0470020180

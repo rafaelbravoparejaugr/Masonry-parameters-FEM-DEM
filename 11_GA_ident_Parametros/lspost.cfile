@@ -1,0 +1,9 @@
+$# LS-PrePost command file created by LS-PrePost(R) V4.8.15 - 17May2021 -64bit-Window
+$# Created on Jun-20-2021 (18:48:07)
+open d3plot "C:\Opt_LS\puente_ident_parametros\actual"
+ac
+state 11;
+state 29;
+fringe 2
+pfringe
+gtime 1
